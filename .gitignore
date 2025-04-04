@@ -1,0 +1,31 @@
+# Python相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+
+# 构建和分发
+build/
+dist/
+*.egg-info/
+*.egg
+*.spec
+
+# 日志文件
+*.log
+
+# IDE和编辑器相关
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# 项目特定
+cache_cleaner.log
+version.txt
+remove_comments.py
